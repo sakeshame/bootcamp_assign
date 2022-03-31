@@ -1,1 +1,2 @@
 line of code in file3.
+fixed the bug in file3.
