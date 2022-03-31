@@ -1,1 +1,2 @@
 line of code in file2.
+fix the problem with file2.
