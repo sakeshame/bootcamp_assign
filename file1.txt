@@ -1,2 +1,3 @@
 line of code in file1.
 another line of code to create conflict in main branch.
+another line of code.
